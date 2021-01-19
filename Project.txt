@@ -1,7 +1,6 @@
 # Python_Projects
-getjoblistenggtech - 
-Script extracts the job list using api into an array based on the skill 'engineering and technology' 
-Post the result onto requestbin
+getjoblistenggtech -  Script extracts the job list using api into an array based on the skill 'engineering and technology' 
+and posts the result onto requestbin.
 
 Problem Definition: 
 ------------------
